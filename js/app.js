@@ -25,9 +25,9 @@ const gameStrings = [
   'Ruby',
   'JavaScript',
   'PHP',
-  'C++',
-  'C#',
-  'Objective-C',
+  'C plus plus',
+  'C sharp',
+  'Objective C',
   'Go',
   'Scratch',
   'SQL'
